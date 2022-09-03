@@ -1,0 +1,31 @@
+[base]
+mode = "workspace"
+smart_pull = true
+
+[mode.workspace]
+git_info = true
+colorblind = false
+
+[repositories]
+repos = [
+	"pkg:crystal-keyring",
+	"pkg:onyx",
+	"pkg:wallpapers",
+	"pkg:grub-theme",
+	"pkg:base",
+	"pkg:crystal-dev",
+	"pkg:filesystem",
+	"pkg:lsb-release",
+	"pkg:neofetch",
+	"pkg:pfetch",
+	"pkg:pkg-warner",
+	"pkg:amethyst",
+	"pkg:jade",
+	"pkg:jade-gui",
+	"pkg:malachite",
+	"pkg:grub",
+	"pkg:zramd",
+]
+
+[repositories.urls]
+pkg = "ssh://git@github.com/crystal-linux/pkgbuild.{}"
