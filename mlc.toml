@@ -27,7 +27,6 @@ repos = [
 	"pkg:zramd",
 	"gse:desktop-icons-neo",
 	"gse:caffeine",
-	"gse:space-bar",
 ]
 
 [repositories.urls]
