@@ -10,7 +10,6 @@ colorblind = false
 repos = [
 	"gse:caffeine",
 	"pkg:ame",
-	"pkg:ame",
 	"pkg:base",
 	"pkg:crystal-dev",
 	"pkg:crystal-keyring",
