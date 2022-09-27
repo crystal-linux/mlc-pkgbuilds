@@ -26,7 +26,6 @@ repos = [
 	"pkg:pfetch",
 	"pkg:pkg-warner",
 	"pkg:wallpapers",
-	"pkg:wallpapers",
 	"pkg:zramd",
 ]
 
