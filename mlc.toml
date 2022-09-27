@@ -13,6 +13,7 @@ repos = [
 	"pkg:base",
 	"pkg:crystal-dev",
 	"pkg:crystal-keyring",
+	"pkg:crystal-mirrorlist",
 	"pkg:filesystem",
 	"pkg:grub",
 	"pkg:grub-theme",
