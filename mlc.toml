@@ -8,27 +8,29 @@ colorblind = false
 
 [repositories]
 repos = [
-	"pkg:crystal-keyring",
-	"pkg:onyx",
-	"pkg:wallpapers",
-	"pkg:grub-theme",
+	"gse:caffeine",
+	"pkg:ame",
+	"pkg:ame",
 	"pkg:base",
 	"pkg:crystal-dev",
+	"pkg:crystal-keyring",
 	"pkg:filesystem",
-	"pkg:lsb-release",
-	"pkg:neofetch",
-	"pkg:pfetch",
-	"pkg:pkg-warner",
-	"pkg:ame",
+	"pkg:grub",
+	"pkg:grub-theme",
 	"pkg:jade",
 	"pkg:jade-gui",
+	"pkg:jade-tui",
+	"pkg:lsb-release",
 	"pkg:malachite",
-	"pkg:grub",
+	"pkg:neofetch",
+	"pkg:onyx",
+	"pkg:pfetch",
+	"pkg:pkg-warner",
+	"pkg:wallpapers",
+	"pkg:wallpapers",
 	"pkg:zramd",
-	"gse:desktop-icons-neo",
-	"gse:caffeine",
 ]
 
 [repositories.urls]
-pkg = "ssh://git@github.com/crystal-linux/pkgbuild.{}"
 gse = "ssh://git@github.com/crystal-linux/pkgbuild.gnome-shell-extension-{}"
+pkg = "ssh://git@github.com/crystal-linux/pkgbuild.{}"
