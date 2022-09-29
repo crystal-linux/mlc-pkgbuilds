@@ -31,5 +31,5 @@ repos = [
 ]
 
 [repositories.urls]
-gse = "ssh://git@github.com/crystal-linux/pkgbuild.gnome-shell-extension-{}"
-pkg = "ssh://git@github.com/crystal-linux/pkgbuild.{}"
+gse = "ssh://git@github.com/crystal-linux-packages/gnome-shell-extension-{}"
+pkg = "https://github.com/crystal-linux/pkgbuild.{}"
